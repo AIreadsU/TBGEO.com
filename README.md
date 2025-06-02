@@ -1,5 +1,4 @@
-# TBGEO.com
-
+# TBGEO.com DeepSeek Schema Generator（企业级-生成引擎优化）
 # GEO版AI数字员工平台商业计划书
 ## 1. 封面
 ### 1.1 标题
